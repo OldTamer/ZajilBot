@@ -1,0 +1,12 @@
+{
+    "botSettings": {
+        "prefix": ""
+    },
+    "mongoSettings": {
+        "mongoPath": "",
+        "password": ""
+    },
+    "otherSettings": {
+        "owner": ""
+    }
+}
